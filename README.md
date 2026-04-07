@@ -1,16 +1,18 @@
-# React + Vite
+# React ToDo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and efficient task management tool built with **React**. This project was created as part of my frontend development journey to practice core React concepts.
 
-Currently, two official plugins are available:
+### Key Features
+* **Task Management**: Easily add and delete tasks.
+* **Progress Tracking**: Real-time counter showing completed vs. total tasks.
+* **Smart Cleaning**: A "Clear Completed" button that appears only when needed.
+* **Persistent Data**: Uses `localStorage` to save your tasks even after refreshing the page.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### Tech Stack
+* **React** (Vite)
+* **Hooks**: `useState`, `useEffect`
+* **JavaScript** (ES6+)
+* **CSS3**
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+### Live: 
