@@ -15,4 +15,4 @@ A simple and efficient task management tool built with **React**. This project w
 * **CSS3**
 
 ---
-### Live: 
+### Live: (https://annaeugeniyevna-todo-react.netlify.app/)
